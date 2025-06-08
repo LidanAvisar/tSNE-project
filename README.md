@@ -2,14 +2,14 @@
 
 This project provides a hands-on exploration of high-dimensional data using **t-SNE** (t-distributed Stochastic Neighbor Embedding), a popular dimensionality reduction technique. The notebook demonstrates how complex data structures can be projected into 2D space for meaningful visualization and analysis.
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - Dimensionality reduction with t-SNE
 - Clustering and pattern identification
 - Intuitive 2D visualizations using `matplotlib`
 - Applicable to a wide range of datasets
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - Scikit-learn
@@ -17,17 +17,17 @@ This project provides a hands-on exploration of high-dimensional data using **t-
 - NumPy
 - Jupyter Notebook
 
-## 📂 File Structure
+## File Structure
 
 ```
 tSNE.ipynb        # Main notebook with analysis and visualizations
 ```
 
-## 📊 Sample Output
+## Sample Output
 
 The notebook produces scatter plots that clearly reveal data clusters and relationships in two dimensions after t-SNE transformation.
 
-## ▶️ Running the Notebook
+##  Running the Notebook
 
 To run the notebook locally:
 
@@ -53,10 +53,10 @@ To run the notebook locally:
    jupyter notebook tSNE.ipynb
    ```
 
-## ✅ Author
+## Author
 
 **Lidan Avisar**  
-Machine Learning Enthusiast & Developer  
+Machine Learning Developer  
 [GitHub Profile](https://github.com/LidanAvisar)
 
 ---
